@@ -4,4 +4,5 @@ const api = axios.create({
     baseUrl: "https://rocketseat-node.herokuapp.com/api"
  });
 
- export defaut api;
+
+ export default api;
